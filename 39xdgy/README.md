@@ -10,9 +10,12 @@
     Q13: Roman to Integer
     Q19: remove nth node from end of list
     Q20: valid parantheses
+    Q23: merge k sorted lists
 
 ## !!!
     Q5: Longest Palindromic Substring 
+    Q22: generate parentheses
+    Q25: Revers Node in K-Group
 
 ## !!!!!
     Q10: Regular Expression Matching
